@@ -13,7 +13,8 @@
   + `StyleFactory.py`：定义StyleFactory类，定义了创建风格（容器，叶节点）的方法，TreeStyleFactory、RectangleStyleFactory分别实现了不同风格的创建方法
   + `FunnyJsonExplorer.py`: 定义FunnyJsonExplorer 类，为客户端类，通过组件接口与组合结构进行交互
 + result：运行结果截图
-
++ Funny JSON Explorer 设计文档.pdf: 设计文档
++ 设计类图.png: 设计类图
 
 
 ### 运行方法
